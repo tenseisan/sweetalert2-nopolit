@@ -1,7 +1,7 @@
 {
   "name": "sweetalert2-uncensored",
   "version": "11.10.4-uncensored",
-  "repository": "cirmialexis/sweetalert2-uncensored",
+  "repository": "alexiscirmi/sweetalert2-uncensored",
   "homepage": "https://sweetalert2.github.io/",
   "description": "SweetAlert 2 without protestware.",
   "main": "dist/sweetalert2.all.js",
@@ -38,7 +38,7 @@
     "src",
     "sweetalert2.d.ts"
   ],
-  "author": "Alexis Emanuel Cirmi (https://github.com/cirmialexis)",
+  "author": "Alexis Emanuel Cirmi (https://github.com/alexiscirmi)",
   "contributors": [
     "Limon Monte (https://limonte.github.io)",
     "Matthew Francis Brunetti <zenflow87@gmail.com> (https://github.com/zenflow)",
