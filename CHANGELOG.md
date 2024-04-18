@@ -1,3 +1,17 @@
+## [11.10.8](https://github.com/sweetalert2/sweetalert2/compare/v11.10.7...v11.10.8) (2024-04-17)
+
+
+### Bug Fixes
+
+* prevent popup content from being selected on double click on the container ([#2722](https://github.com/sweetalert2/sweetalert2/issues/2722)) ([7910325](https://github.com/sweetalert2/sweetalert2/commit/79103251ddbc664171cc6538320d57ca72a36a89))
+
+## [11.10.7](https://github.com/sweetalert2/sweetalert2/compare/v11.10.6...v11.10.7) (2024-03-22)
+
+
+### Bug Fixes
+
+* improve performance by pulling querySelector out of the loop ([#2719](https://github.com/sweetalert2/sweetalert2/issues/2719)) ([9f94517](https://github.com/sweetalert2/sweetalert2/commit/9f9451789d1efab3f0dc5a7f841af0f17619b2f4))
+
 ## [11.10.6](https://github.com/sweetalert2/sweetalert2/compare/v11.10.5...v11.10.6) (2024-03-05)
 
 
