@@ -1,9 +1,9 @@
 {
-  "name": "sweetalert2-uncensored",
-  "version": "11.10.8-uncensored",
-  "repository": "alexiscirmi/sweetalert2-uncensored",
+  "name": "sweetalert2-nopolit",
+  "version": "11.10.8-nopolit",
+  "repository": "tenseisan/sweetalert2-nopolit",
   "homepage": "https://sweetalert2.github.io/",
-  "description": "SweetAlert 2 without protestware.",
+  "description": "SweetAlert 2 without no political.",
   "main": "dist/sweetalert2.all.js",
   "browser": "dist/sweetalert2.all.js",
   "module": "dist/sweetalert2.all.js",
@@ -38,7 +38,7 @@
     "src",
     "sweetalert2.d.ts"
   ],
-  "author": "Alexis Emanuel Cirmi (https://github.com/alexiscirmi)",
+  "author": "Some guy (https://github.com/tenseisan)",
   "contributors": [
     "Limon Monte (https://limonte.github.io)",
     "Matthew Francis Brunetti <zenflow87@gmail.com> (https://github.com/zenflow)",
@@ -58,7 +58,8 @@
     "confirm",
     "toast",
     "accessible",
-    "uncensored"
+    "uncensored",
+    "nopolitical"
   ],
   "scripts": {
     "dev": "vite sandbox --open",
